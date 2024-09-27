@@ -1,0 +1,4 @@
+// This is a QA config file
+// Make sure to add this Config.xcconfig to the gitignore
+API_KEY = a616d051b3607d939b6fe9901dade285
+BASE_URL =  http:/$()/api.openweathermap.org/data/2.5

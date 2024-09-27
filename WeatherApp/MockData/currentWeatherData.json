@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": -84.2945,
+    "lat": 34.0756
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds mock",
+      "icon": "03n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 20.36,
+    "feels_like": 20.7,
+    "temp_min": 19.48,
+    "temp_max": 21.28,
+    "pressure": 1013,
+    "humidity": 86,
+    "sea_level": 1013,
+    "grnd_level": 977
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.41,
+    "deg": 114,
+    "gust": 6.48
+  },
+  "clouds": {
+    "all": 28
+  },
+  "dt": 1726895573,
+  "sys": {
+    "type": 2,
+    "id": 2003909,
+    "country": "US",
+    "sunrise": 1726917893,
+    "sunset": 1726961719
+  },
+  "timezone": -14400,
+  "id": 4179574,
+  "name": "Alpharetta",
+  "cod": 200
+}
